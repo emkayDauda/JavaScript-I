@@ -101,7 +101,7 @@ const parent = {
   }
 }
 
-console.log()
+console.log('\n')
 // Log the parent object's name
 console.log(parent.name)
 // Log the child's age
