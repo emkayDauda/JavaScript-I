@@ -31,7 +31,7 @@ const Kennan = {
   email: "kdiben1@tinypic.com",
   "first name": "Kennan",
   gender: "M",
-  speak: () => "I can speak, Muhahahaha!"
+  speak: () => "Hello, my name is Kennan!"
 }
 
 const Kevin = {
